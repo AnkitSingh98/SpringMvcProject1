@@ -13,6 +13,6 @@
         <form:errors path="todoContent" cssClass="error"/>
     </div>
 
-    <button type="submit">Spring Error Form Register</button>
+    <button type="submit">Spring Error Form Register - Text changed 2</button>
 
 </form:form>
