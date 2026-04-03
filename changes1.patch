@@ -1,0 +1,12 @@
+diff --git a/src/main/webapp/WEB-INF/pages/error.jsp b/src/main/webapp/WEB-INF/pages/error.jsp
+index 86b11ce..3ad1bb5 100644
+--- a/src/main/webapp/WEB-INF/pages/error.jsp
++++ b/src/main/webapp/WEB-INF/pages/error.jsp
+@@ -13,6 +13,6 @@
+         <form:errors path="todoContent" cssClass="error"/>
+     </div>
+ 
+-    <button type="submit">Spring Error Form Register - Text changed 5</button>
++    <button type="submit">Spring Error Form Register - Text changed - PATCH apply</button>
+ 
+ </form:form>
